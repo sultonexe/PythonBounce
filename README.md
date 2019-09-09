@@ -1,2 +1,20 @@
-# PythonBounce
-# PythonClock Simple Clock Made Using Python3 by SultonExe @2019  About The Project &lt;br> Name : Simple Clock &lt;br> Made with : Python Programming Language &lt;br> Dev : @sulton.exe &lt;br> Version : 0.1 &amp; 0.2 &lt;br> &lt;br> About Me : &lt;br>  Name : Sulton &lt;br> From : Indonesia &lt;br> &lt;br> Follow My Media &lt;br> IG : @sulton.exe &lt;br> FB : SultonExe &lt;br>  #### &lt;br> PLEASE DON'T RECODE THIS PROJECT WITHOUT MY PERMISSION &lt;br>  DIMOHON UNTUK TIDAK ME-RECODE PROJECT INI TANPA IZIN SAYA :) &lt;br> ### &lt;br>
+# PythonBounche
+Bounce Ball Simulator Make Using Python3 by SultonExe @2019
+
+About The Project <br>
+Name : Bounce Ball Simulator <br>
+Made with : Python Programming Language <br>
+Dev : @sulton.exe <br>
+<br>
+About Me : <br> 
+Name : Sulton <br>
+From : Indonesia <br>
+<br>
+Follow My Media <br>
+IG : @sulton.exe <br>
+FB : SultonExe <br>
+
+#### <br>
+PLEASE DON'T RECODE THIS PROJECT WITHOUT MY PERMISSION <br> 
+DIMOHON UNTUK TIDAK ME-RECODE PROJECT INI TANPA IZIN SAYA :) <br>
+### <br>
